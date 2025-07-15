@@ -1,6 +1,6 @@
-# ByteHunt
+# RegisTu
 
-**ByteHunt** is a Java-based desktop application that securely stores and manages digital CVs using blockchain technology. Built with Java Swing and styled using FlatLaf, the application ensures a modern user experience and tamper-proof data storage.  
+**RegisTu** is a Java-based desktop application that securely stores and manages digital CVs using blockchain technology. Built with Java Swing and styled using FlatLaf, the application ensures a modern user experience and tamper-proof data storage.  
 This project was developed as part of the **Distributed Computing** course at the Polytechnic Institute of Tomar (IPT).
 
 ---
